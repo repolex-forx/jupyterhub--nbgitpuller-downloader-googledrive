@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "jupyterhub",
+  "repo": "nbgitpuller-downloader-googledrive",
+  "versions": [
+    {
+      "commit": "4e3688f0ba0a225f71f9e6215eddd6adefbbb125",
+      "parsed_at": "2026-10-21T21:56:38.104316+00:00",
+      "filetree": "filetree/4e3688f0ba0a225f71f9e6215eddd6adefbbb125.nq.gz",
+      "blobs": [
+        "blob/07de284aa5c45f56b69ca6f605edf72a14785b99.nq.gz",
+        "blob/5025ce4e109c0024928f2910db710a81362a5baa.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/5f41d6f2b132c3e92253e9df5e9f21a17dc8778c.nq.gz",
+        "blob/55e86c7aa34ae6e460cd28b472fbe8d0b07df70a.nq.gz",
+        "blob/064bea1b74ae59a2cff93e073738ca8d1c5cb921.nq.gz",
+        "blob/7c7a753cbabba685dc3e67f1236dcdad2cc055ab.nq.gz",
+        "blob/1938fd7ef9c8f19365c151946199369ddb164902.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
